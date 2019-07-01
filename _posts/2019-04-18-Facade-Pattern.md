@@ -9,7 +9,6 @@ tag:
 comments: true
 ---
 
-
 # The Facade Design Pattern
 * 복잡한 하위 시스템에 대한 하나의 interface 를 제공한다.
 * 사용자에게 여러 클래스들이나 API 들을 노출하지 않고 오직 하나의 통일된 간단한 API 만 노출한다.
