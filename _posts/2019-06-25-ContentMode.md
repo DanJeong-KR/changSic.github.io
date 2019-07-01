@@ -11,16 +11,6 @@ feature: /assets/ContentModes.png
 ---
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
-</figure>
-
-<figure>
-	<a href="Test"><img src="https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png"></a>
-	<figcaption><a href="https://user-images.githubusercontent.com/38423205" title="Test 하는중"</a>.</figcaption>
-</figure>
-
-<figure>
   <img width="2479" alt="ContentMode" src="https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png">
 </figure>
 
