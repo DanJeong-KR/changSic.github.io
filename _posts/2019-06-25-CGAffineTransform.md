@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  " [iOS : CoreGraphics] CGAffineTransform 을 사용해서 Animation 구현하기! "
-subtitle:
-categories: iOS
-tags: note
+title:  "CGAffineTransform 을 사용해서 Animation 구현하기!"
+date:   2019-06-25
+excerpt: ""
+project: true
+tag:
+- iOS
+- CGAffineTransform
+- Animation
+comments: true
 ---
 
 #### UIView 아래의 Animation 계층

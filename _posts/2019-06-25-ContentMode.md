@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  " [iOS : ContentMode] UIImageView 의 contentMode 알기! / contentMode 로 image layout 결정하기! "
-subtitle:
-categories: iOS
-tags: note
+title:  "ContentMode"
+date:   2019-06-25
+excerpt: "UIImageView 의 contentMode 알기! / contentMode 로 image layout 결정하기!"
+project: true
+tag:
+- iOS
+- ContentMode
+comments: true
 ---
 
 <img width="2479" alt="ContentMode" src="https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png">

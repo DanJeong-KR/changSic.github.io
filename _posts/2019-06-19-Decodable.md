@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  " [iOS : Codable]중첩된 JSON 데이터를 원하는 부분만 Codable 을 활용해서 가져오기! "
-subtitle:
-categories: iOS
-tags: note
+title:  "중첩된 JSON 데이터를 원하는 부분만 Codable 을 활용해서 가져오기"
+date:   2019-06-19
+excerpt: "Codable"
+project: true
+tag:
+- iOS
+- JSON
+- Codable
+comments: true
 ---
+
 <img width="5749" alt="중첩된 JSON 데이터를 원하는 부분만 Codable 을 활용해서 가져오기" src="https://user-images.githubusercontent.com/38423205/59762029-2fd7c200-92d1-11e9-8aeb-9a48b98eda24.png">
 
 ### [마인드맵 보기](https://github.com/changSic/Task/files/3305838/convertJsonObjectToCodable.pdf)
