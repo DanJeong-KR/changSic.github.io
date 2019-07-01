@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Sicc
+bio:                '일🏃🏻‍♂️과 사랑❤️, 그리고 프로그래밍👨🏻‍💻'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/siccLogo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://taylantatli.github.io/Moon
+locale:             ko_KR
+url:                https://changsic.github.io
 
 # Jekyll
 permalink:          /:title/
