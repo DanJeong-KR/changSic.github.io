@@ -3,7 +3,6 @@ layout: post
 title:  "CGAffineTransform 을 사용해서 Animation 구현하기!"
 date:   2019-06-25
 excerpt: ""
-project: true
 tag:
 - iOS
 - CGAffineTransform

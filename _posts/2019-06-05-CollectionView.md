@@ -3,7 +3,6 @@ layout: post
 title:  "CollectionView 마인드맵으로 정복하기!"
 date:   2019-06-05
 excerpt: "CollectionView"
-project: true
 tag:
 - iOS
 - CollectionView

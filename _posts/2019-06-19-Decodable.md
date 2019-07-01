@@ -3,7 +3,6 @@ layout: post
 title:  "중첩된 JSON 데이터를 원하는 부분만 Codable 을 활용해서 가져오기"
 date:   2019-06-19
 excerpt: "Codable"
-project: true
 tag:
 - iOS
 - JSON

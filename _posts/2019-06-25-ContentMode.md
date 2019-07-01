@@ -3,7 +3,6 @@ layout: post
 title:  "ContentMode"
 date:   2019-06-25
 excerpt: "UIImageView 의 contentMode 알기! / contentMode 로 image layout 결정하기!"
-project: true
 tag:
 - iOS
 - ContentMode
