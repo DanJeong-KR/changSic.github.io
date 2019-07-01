@@ -16,7 +16,12 @@ feature: /assets/ContentModes.png
 </figure>
 
 <figure>
-<img width="2479" alt="ContentMode" src="https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png">
+	<a href="Test"><img src="https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png"></a>
+	<figcaption><a href="https://user-images.githubusercontent.com/38423205" title="Test 하는중"</a>.</figcaption>
+</figure>
+
+<figure>
+  <img width="2479" alt="ContentMode" src="https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png">
 </figure>
 
 ### [마인드맵 자세히 보기](https://github.com/changSic/Task/files/3323152/ContentModePdf.pdf)
