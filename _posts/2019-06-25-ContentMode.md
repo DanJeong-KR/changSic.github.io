@@ -12,9 +12,7 @@ feature: /assets/ContentModes.png
 
 <figure>
   <img width="2479" alt="ContentMode" src="https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png">
-  <figcaption>
-  [마인드맵](https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png)
-  </figcaption>
+  <figcaption><a href="https://user-images.githubusercontent.com/38423205/60062311-9fb3d580-9733-11e9-9678-5e5539534b91.png" title="마인드맵"></a>.</figcaption>
 </figure>
 
 ### [마인드맵 자세히 보기](https://github.com/changSic/Task/files/3323152/ContentModePdf.pdf)
