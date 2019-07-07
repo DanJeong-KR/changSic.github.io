@@ -12,16 +12,21 @@ comments: true
 feature: /assets/WWDC19OverView.png
 ---
 
+<figure>
+	<a href="/assets/WWDCReviewMain.png"><img src="/assets/WWDCReviewMain.png"></a>
+  <figcaption>
+    <a href="https://kxcoding.com/camp/kxcoding-seminar-2019-07-wwdc-2019-review" title="">세미나 링크</a>
+  </figcaption>
+</figure>
 
-<figure class="third">
-	<img src="/assets/WWDCReviewMain.png">
+<figure class="half">
 	<img src="/assets/WWDC19_image1.jpg">
 	<img src="/assets/WWDC19_image2.jpeg">
 	<figcaption> 세미나 즐기는 중</figcaption>
 </figure>
 
-#### [세미나 정보](https://kxcoding.com/camp/kxcoding-seminar-2019-07-wwdc-2019-review)
 
+---
 
 <figure>
 	<a href="/assets/Sessions.png"><img src="/assets/Sessions.png"></a>
