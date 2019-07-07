@@ -2,8 +2,7 @@
 layout: post
 title:  "KCX 에서 주최하는 WWDC19 톺아보기 세미나 Part1"
 date:   2019-07-07
-excerpt: "
-Session 1. 개발자가 놓치면 안되는 새로운 기능들
+excerpt: "Session 1. 개발자가 놓치면 안되는 새로운 기능들
 "
 tag:
 - iOS
@@ -12,6 +11,8 @@ tag:
 comments: true
 feature: /assets/WWDC19OverView.png
 ---
+
+
 <figure class="third">
 	<img src="/assets/WWDCReviewMain.png">
 	<img src="/assets/WWDC19_image1.jpg">
@@ -28,3 +29,10 @@ feature: /assets/WWDC19OverView.png
 </figure>
 
 # Session 1
+#### 개발자가 놓치면 안되는 새로운 기능들
+
+### 1. iOS13
+<figure>
+	<a href="/assets/iOS13.png"><img src="/assets/iOS13.png"></a>
+  <figcaption><a href="/assets/iOS13.pdf" title="Test">마인드맵 보기</a></figcaption>
+</figure>
