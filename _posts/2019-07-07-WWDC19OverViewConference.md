@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "KCX 에서 주최하는 WWDC19 톺아보기 후기"
+title:  "KCX 에서 주최하는 WWDC19 톺아보기 세미나 후기"
 date:   2019-07-07
-excerpt: "개발자가 놓치면 안되는 새로운 기능들
+excerpt: "Session 1. 개발자가 놓치면 안되는 새로운 기능들
 "
 tag:
 - iOS
@@ -44,7 +44,7 @@ feature: /assets/WWDC19OverView.png
 <figure>
 	<a href="/assets/iPadOS.png"><img src="/assets/iPadOS.png"></a>
   <figcaption>
-    <a href="/assets/iPadOS.pdf title="">PDF로 자세히 보기</a>
+    <a href="/assets/iPadOS.pdf" title="">PDF로 자세히 보기</a>
   </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ feature: /assets/WWDC19OverView.png
 <figure>
 	<a href="/assets/WatchOS.png"><img src="/assets/WatchOS.png"></a>
   <figcaption>
-    <a href="/assets/WatchOS.pdf title="">PDF로 자세히 보기</a>
+    <a href="/assets/WatchOS.pdf" title="">PDF로 자세히 보기</a>
   </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ feature: /assets/WWDC19OverView.png
 <figure>
 	<a href="/assets/SignWithApple.png"><img src="/assets/SignWithApple.png"></a>
   <figcaption>
-    <a href="/assets/SignWithApple.pdf title="">PDF로 자세히 보기</a>
+    <a href="/assets/SignWithApple.pdf" title="">PDF로 자세히 보기</a>
   </figcaption>
 </figure>
 
@@ -70,6 +70,6 @@ feature: /assets/WWDC19OverView.png
 <figure>
 	<a href="/assets/v.png"><img src="/assets/Swift5.1.png"></a>
   <figcaption>
-    <a href="/assets/Swift5.1.pdf title="">PDF로 자세히 보기</a>
+    <a href="/assets/Swift5.1.pdf" title="">PDF로 자세히 보기</a>
   </figcaption>
 </figure>
