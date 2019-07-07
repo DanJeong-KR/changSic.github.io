@@ -36,7 +36,7 @@ feature: /assets/WWDC19OverView.png
 # Session 1
 #### 개발자가 놓치면 안되는 새로운 기능들
 
-### 1. iOS13
+## 1. iOS13
 <figure>
 	<a href="/assets/iOS13.png"><img src="/assets/iOS13.png"></a>
   <figcaption>
@@ -45,7 +45,7 @@ feature: /assets/WWDC19OverView.png
 </figure>
 
 
-### 2. iPadOS
+## 2. iPadOS
 <figure>
 	<a href="/assets/iPadOS.png"><img src="/assets/iPadOS.png"></a>
   <figcaption>
@@ -54,7 +54,7 @@ feature: /assets/WWDC19OverView.png
 </figure>
 
 
-### 3. WatchOS
+## 3. WatchOS
 <figure>
 	<a href="/assets/WatchOS.png"><img src="/assets/WatchOS.png"></a>
   <figcaption>
@@ -63,7 +63,7 @@ feature: /assets/WWDC19OverView.png
 </figure>
 
 
-### 4. Sign in With Apple
+## 4. Sign in With Apple
 <figure>
 	<a href="/assets/SignWithApple.png"><img src="/assets/SignWithApple.png"></a>
   <figcaption>
@@ -71,7 +71,7 @@ feature: /assets/WWDC19OverView.png
   </figcaption>
 </figure>
 
-### 5. Swift5.1
+## 5. Swift5.1
 <figure>
 	<a href="/assets/v.png"><img src="/assets/Swift5.1.png"></a>
   <figcaption>
