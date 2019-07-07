@@ -34,5 +34,42 @@ feature: /assets/WWDC19OverView.png
 ### 1. iOS13
 <figure>
 	<a href="/assets/iOS13.png"><img src="/assets/iOS13.png"></a>
-  <figcaption><a href="/assets/iOS13.pdf>PDF로 자세히 보기</a></figcaption>
+  <figcaption>
+    <a href="/assets/iOS13.pdf title="">PDF로 자세히 보기</a>
+  </figcaption>
+</figure>
+
+
+### 2. iPadOS
+<figure>
+	<a href="/assets/iPadOS.png"><img src="/assets/iPadOS.png"></a>
+  <figcaption>
+    <a href="/assets/iPadOS.pdf title="">PDF로 자세히 보기</a>
+  </figcaption>
+</figure>
+
+
+### 3. WatchOS
+<figure>
+	<a href="/assets/WatchOS.png"><img src="/assets/WatchOS.png"></a>
+  <figcaption>
+    <a href="/assets/WatchOS.pdf title="">PDF로 자세히 보기</a>
+  </figcaption>
+</figure>
+
+
+### 4. Sign in With Apple
+<figure>
+	<a href="/assets/SignWithApple.png"><img src="/assets/SignWithApple.png"></a>
+  <figcaption>
+    <a href="/assets/SignWithApple.pdf title="">PDF로 자세히 보기</a>
+  </figcaption>
+</figure>
+
+### 5. Swift5.1
+<figure>
+	<a href="/assets/v.png"><img src="/assets/Swift5.1.png"></a>
+  <figcaption>
+    <a href="/assets/Swift5.1.pdf title="">PDF로 자세히 보기</a>
+  </figcaption>
 </figure>
