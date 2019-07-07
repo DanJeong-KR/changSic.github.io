@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "KCX 에서 주최하는 WWDC19 톺아보기 세미나 Part1"
+title:  "KCX 에서 주최하는 WWDC19 톺아보기 후기"
 date:   2019-07-07
-excerpt: "Session 1. 개발자가 놓치면 안되는 새로운 기능들
+excerpt: "개발자가 놓치면 안되는 새로운 기능들
 "
 tag:
 - iOS
