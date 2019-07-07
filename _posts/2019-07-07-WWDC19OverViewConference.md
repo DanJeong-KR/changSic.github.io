@@ -40,7 +40,7 @@ feature: /assets/WWDC19OverView.png
 <figure>
 	<a href="/assets/iOS13.png"><img src="/assets/iOS13.png"></a>
   <figcaption>
-    <a href="/assets/iOS13.pdf title="">PDF로 자세히 보기</a>
+    <a href="/assets/iOS13.pdf" title="">PDF로 자세히 보기</a>
   </figcaption>
 </figure>
 
