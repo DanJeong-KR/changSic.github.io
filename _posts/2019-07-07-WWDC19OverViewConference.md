@@ -34,5 +34,5 @@ feature: /assets/WWDC19OverView.png
 ### 1. iOS13
 <figure>
 	<a href="/assets/iOS13.png"><img src="/assets/iOS13.png"></a>
-  <figcaption><a href="/assets/iOS13.pdf">자세히 보기</a></figcaption>
+  <figcaption><a href="/assets/iOS13.pdf>PDF로 자세히 보기</a></figcaption>
 </figure>
