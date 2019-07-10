@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 
-# Apple API design guidelines
+# Swift API design guidelines
 
 #### 축약하지 말고 길더라도 명확하도록 쓰자
 
