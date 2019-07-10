@@ -20,12 +20,17 @@ comments: true
 
 로 구성한다.
 
-<pre md-pos="182-219" class="line-numbers"><code md-pos="186-215">type : subject
+---
 
-body
+### `Type` : `Subject`
 
-footer
-</code></pre>
+### `Body`
+
+### `Footer`
+
+---
+
+
 <h2 id="2-commit-type" md-pos="223-237"><a href="#2-commit-type" name="2-commit-type" class="anchor"><span class="octicon octicon-link"></span></a>1. Commit Type</h2>
 
 * `feat` : 새로운 기능 추가
