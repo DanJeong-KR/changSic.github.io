@@ -27,15 +27,16 @@ body
 footer
 </code></pre>
 <h2 id="2-commit-type" md-pos="223-237"><a href="#2-commit-type" name="2-commit-type" class="anchor"><span class="octicon octicon-link"></span></a>1. Commit Type</h2>
-<ul>
-  <li md-pos="238-257">feat : 새로운 기능 추가</li>
-  <li md-pos="257-271">fix : 버그 수정</li>
-  <li md-pos="271-286">docs : 문서 수정</li>
-  <li md-pos="286-326">style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우</li>
-  <li md-pos="326-347">refactor : 코드 리펙토링</li>
-  <li md-pos="347-379">test : 테스트 코드, 리펙토링 테스트 코드 추가</li>
-  <li md-pos="379-410">chore : 빌드 업무 수정, 패키지 매니저 수정</li>
-</ul>
+
+* `feat` : 새로운 기능 추가
+* `fix` : 버그 수정
+* `docs` : 문서 수정
+* `style` : 파일 그룹화, 세미콜론 누락, 코드 변경이 없는 경우
+* `refactor` : 코드 리펙토링
+* `test` : 테스트 코드, 리펙토링 테스트 코드 추가
+* `chore` : 빌드 업무 수정, 패키지 매니저 수정
+
+
 <h2 id="3-subject" md-pos="414-424"><a href="#3-subject" name="3-subject" class="anchor"><span class="octicon octicon-link"></span></a>2. Subject</h2>
 <ul>
   <li md-pos="426-469">제목은 50자를 넘기지 않고, 대문자로 작성하고 마침표를 붙이지 않는다.</li>
