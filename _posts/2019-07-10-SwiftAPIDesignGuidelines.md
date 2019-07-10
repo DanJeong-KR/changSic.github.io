@@ -22,6 +22,10 @@ comments: true
 
 - 리턴의 의미 -
 
+### #pragma mark 주석
+* `// MARK: - ` : 설명
+* `// FIXME: - ` : 고쳐야 할 것
+* `// TODO: - ` : 해야할 것
 
 
 ### 네이밍
