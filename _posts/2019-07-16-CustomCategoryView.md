@@ -20,7 +20,7 @@ comments: true
 
 <figure>
 	<a href="/assets/ScrollingWithIndicatorBar.gif"><img src="/assets/ScrollingWithIndicatorBar.gif"></a>
-  <figcaption>카테고리를 스크롤 해도 파란색 IndicatorBar가 따라갑니다 </figcaption>
+  <figcaption> 카테고리를 스크롤 해도 파란색 IndicatorBar가 따라갑니다 </figcaption>
 </figure>
 
 ### Usage
