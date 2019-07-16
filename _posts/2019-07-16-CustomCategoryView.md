@@ -19,7 +19,7 @@ comments: true
 </figure>
 
 <figure>
-	<img src="/assets/ScrollingWithIndicatorBar.gif"></a>
+	<img src="/assets/ScrollingWithIndicatorBar.gif">
   <figcaption> 카테고리를 스크롤 해도 파란색 IndicatorBar가 따라갑니다 </figcaption>
 </figure>
 
@@ -33,3 +33,7 @@ comments: true
 
 3. Inherit CategoryTabBarViewController on the ViewController you will use
 (this case is DemoViewController)
+<figure>
+	<img src="/assets/InheritCategoryTabBarVC.gif">
+  <figcaption> 카테고리를 스크롤 해도 파란색 IndicatorBar가 따라갑니다 </figcaption>
+</figure>
