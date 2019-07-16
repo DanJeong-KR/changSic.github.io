@@ -12,11 +12,12 @@ comments: true
 
 # Custom Category TabBar
 
-<figure>
-	<a href="/assets/ViewTouch.gif"><img src="/assets/ViewTouch.gif"></a>
+<figure class="half">
+	<img src="/assets/ViewTouch.gif">
+	<img src="/assets/CategoryTouch.gif">
 </figure>
 
-<figure class="half">
-	<img src="/assets/CategoryTouch.gif">
-	<img src="/assets/ScrollingWithIndicatorBar.gif">
+<figure>
+	<a href="/assets/ScrollingWithIndicatorBar.gif"><img src="/assets/ViewTouch.gif"></a>
+  <figcaption>카테고리를 스크롤 해도 파란색 IndicatorBar가 따라갑니다 </figcaption>
 </figure>
