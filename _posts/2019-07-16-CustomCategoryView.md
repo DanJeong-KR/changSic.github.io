@@ -39,6 +39,16 @@ mady by **Sicc**
 
 2. Copy `CustomCategoryTabBar`Folder and Paste this file into your Project
 <figure>
+  <a href="/assets/CategoryTabBarPath1.png">
+	<img src="/assets/CategoryTabBarPath1.png">
+  </a>
+</figure>
+<figure>
+  <a href="/assets/CategoryTabBarPath2.png">
+	<img src="/assets/CategoryTabBarPath2.png">
+  </a>
+</figure>
+<figure>
   <a href="/assets/CustomCategoryTabBarFolder.png">
 	<img src="/assets/CustomCategoryTabBarFolder.png">
   </a>
