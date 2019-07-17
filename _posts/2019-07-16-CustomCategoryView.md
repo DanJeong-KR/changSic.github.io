@@ -16,8 +16,13 @@ mady by **Sicc**
 * [Gutgub](https://github.com/changSic)
 * [Blog](https://changsic.github.io/)
 
-[English](#Features)
-한국어로 보
+[English](#eng)
+[한국어로 보기](#kor)
+
+
+<a href = "#eng"> In English </a>
+
+---
 
 # Features
 <figure class="half">
@@ -89,3 +94,7 @@ mady by **Sicc**
 	<img src="/assets/CategoryNumIs4.gif" height = 300>
   </a>
 </figure>
+
+---
+
+<a href = "#kor"> 한국어로 보기 </a>
