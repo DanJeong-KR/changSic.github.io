@@ -14,8 +14,12 @@ comments: true
 
 ### Features
 <figure class="half">
+  <a href="/assets/ViewTouch.gif">
 	<img src="/assets/ViewTouch.gif">
+  </a>
 	<img src="/assets/CategoryTouch.gif">
+  <a href="/assets/CategoryTouch.gif">
+  </a>
 </figure>
 
 <figure>
@@ -31,7 +35,7 @@ comments: true
 ### Usage
 1. DownLoad My DemoProject
 
-2. Copy CustomCategoryTabBarFolder and Paste this file into your Project
+2. Copy `CustomCategoryTabBar`Folder and Paste this file into your Project
 <figure>
   <a href="/assets/CustomCategoryTabBarFolder.png">
 	<img src="/assets/CustomCategoryTabBarFolder.png">
@@ -56,5 +60,25 @@ comments: true
   </a>
 </figure>
 
-5. If you need
-* 2 category and Category Name is First and Second, Your Code is like this
+### Examples
+
+#### If you need
+* 2 categories and Category Name is `First` and `Second`, Your code is like this
+<figure class = "half">
+  <a href="/assets/categoryCodeDemo1.png">
+	<img src="/assets/categoryCodeDemo1.png">
+  </a>
+  <a href="CategoryNumIs2.gif">
+	<img src="CategoryNumIs2.gif">
+  </a>
+</figure>
+
+* 4 categories and Category Name is `Hi` and `My` and `name` and `is`, Your code is like this
+<figure>
+  <a href="/assets/categoryCodeDemo2.png">
+	<img src="/assets/categoryCodeDemo2.png">
+  </a>
+  <a href="/assets/ dCategoryNumIs4.gif">
+	<img src="/assets/CategoryNumIs4.gif">
+  </a>
+</figure>
