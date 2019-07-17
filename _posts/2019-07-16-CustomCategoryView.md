@@ -68,8 +68,8 @@ comments: true
   <a href="/assets/categoryCodeDemo1.png">
 	<img src="/assets/categoryCodeDemo1.png">
   </a>
-  <a href="CategoryNumIs2.gif">
-	<img src="CategoryNumIs2.gif">
+  <a href="/assets/CategoryNumIs2.gif">
+	<img src="/assets/CategoryNumIs2.gif">
   </a>
 </figure>
 
@@ -78,7 +78,7 @@ comments: true
   <a href="/assets/categoryCodeDemo2.png">
 	<img src="/assets/categoryCodeDemo2.png">
   </a>
-  <a href="/assets/ dCategoryNumIs4.gif">
+  <a href="/assets/CategoryNumIs4.gif">
 	<img src="/assets/CategoryNumIs4.gif">
   </a>
 </figure>
