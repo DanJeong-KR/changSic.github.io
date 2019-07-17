@@ -64,15 +64,13 @@ mady by **Sicc**
 
 5. (Optional) The last parameter is an option for whether the category can be scrolled.
 The image below is a true option, so you can scroll through the categories.
-<figure>
-	<img src="/assets/CategoryScrollingWithIndicatorBar.gif" height = 400>
-</figure>
+<img src="/assets/CategoryScrollingWithIndicatorBar.gif" height = 400>
 
 
 # Examples
 
 ### If you need
-* **2 categories** and Category Name is `First` and `Second`, Your code is like this
+* ### 2 categories and Category Name is `First` and `Second`, Your code is like this
 <figure>
   <a href="/assets/categoryCodeDemo1.png">
 	<img src="/assets/categoryCodeDemo1.png">
@@ -80,11 +78,11 @@ The image below is a true option, so you can scroll through the categories.
 </figure>
 <figure>
   <a href="/assets/CategoryNumIs2.gif">
-	<img src="/assets/CategoryNumIs2.gif" height = "400">
+	<img src="/assets/CategoryNumIs2.gif">
   </a>
 </figure>
 
-* **4 categories** and Category Name is `Hi` and `My` and `name` and `is`, Your code is like this
+* ### 4 categories and Category Name is `Hi` and `My` and `name` and `is`, Your code is like this
 <figure>
   <a href="/assets/categoryCodeDemo2.png">
 	<img src="/assets/categoryCodeDemo2.png">
@@ -92,7 +90,7 @@ The image below is a true option, so you can scroll through the categories.
 </figure>
 <figure>
   <a href="/assets/CategoryNumIs4.gif">
-	<img src="/assets/CategoryNumIs4.gif" height = 400>
+	<img src="/assets/CategoryNumIs4.gif">
   </a>
 </figure>
 
@@ -127,9 +125,8 @@ The image below is a true option, so you can scroll through the categories.
 </figure>
 
 5. (선택사항) 마지막 인자는 카테고리가 스크롤이 가능한지에 대한 옵션입니다. 아래 사진에서는 true 옵션에 해당하는 것이어서 카테고리가 스크롤 됨을 볼 수 있습니다.
-<figure>
-	<img src="/assets/CategoryScrollingWithIndicatorBar.gif" height = 400>
-</figure>
+<img src="/assets/CategoryScrollingWithIndicatorBar.gif" height = 400>
+
 
 
 # Examples
@@ -143,7 +140,7 @@ The image below is a true option, so you can scroll through the categories.
 </figure>
 <figure>
   <a href="/assets/CategoryNumIs2.gif">
-	<img src="/assets/CategoryNumIs2.gif" height = 400>
+	<img src="/assets/CategoryNumIs2.gif">
   </a>
 </figure>
 
@@ -155,7 +152,7 @@ The image below is a true option, so you can scroll through the categories.
 </figure>
 <figure>
   <a href="/assets/CategoryNumIs4.gif">
-	<img src="/assets/CategoryNumIs4.gif" height = 400>
+	<img src="/assets/CategoryNumIs4.gif">
   </a>
 </figure>
 
