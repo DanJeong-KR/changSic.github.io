@@ -35,7 +35,7 @@ mady by **Sicc**
 <a href="#eng">In English</a>
 
 # Usage
-1. DownLoad My DemoProject
+1. DownLoad My [DemoProject](https://github.com/changSic/CustomCategoryTabBar)
 
 2. Copy `CustomCategoryTabBar`Folder and Paste this file into your Project
 <figure>
@@ -98,7 +98,7 @@ The image below is a true option, so you can scroll through the categories.
 
 <a href="#kor">한국어로 보기</a>
 # Usage
-1. DemoProject 를 다운로드 합니다.
+1. [DemoProject](https://github.com/changSic/CustomCategoryTabBar) 를 다운로드 합니다.
 
 2. `CustomCategoryTabBar`Folder 를 복사하고 자신의 프로젝트에 붙여넣기를 합니다!
 <figure>
