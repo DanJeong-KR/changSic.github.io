@@ -32,8 +32,8 @@ mady by **Sicc**
   </a>
   <figcaption>
     <a href="/assets/CategoryScrollingWithIndicatorBar.gif" title = "If you scroll the category, IndicatorBar follows the category">
-    </a>
     If you scroll the category, IndicatorBar follows the category
+    </a>
   </figcaption>
 </figure>
 
