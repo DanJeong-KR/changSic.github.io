@@ -1,38 +1,45 @@
 ---
 layout: post
-title:  "Custom Category TabBar 만들었어요!"
-date:   2019-07-10
+title:  "Custom Category TabBar Project"
+date:   2019-07-16
 excerpt: "Category TabBar 를 추상화 시켜서 어디든 재사용 할 수 있게 만들어보자!
 "
 tag:
 - iOS
 - OpenSource
 comments: true
+project: true
 ---
 
 # Custom Category TabBar
+mady by **Sicc**
+* [Gutgub](https://github.com/changSic)
+* [Blog](https://changsic.github.io/)
 
-### Features
+[English](#Features)
+한국어로 보
+
+# Features
 <figure class="half">
-  <a href="/assets/ViewTouch.gif">
-	<img src="/assets/ViewTouch.gif">
+  <a href="/assets/ViewSwipe.gif">
+	<img src="/assets/ViewSwipe.gif">
   </a>
-	<img src="/assets/CategoryTouch.gif">
-  <a href="/assets/CategoryTouch.gif">
+	<img src="/assets/CategoryTap.gif">
+  <a href="/assets/CategoryTap.gif">
   </a>
 </figure>
 
 <figure>
-  <a href="/assets/ScrollingWithIndicatorBar.gif">
-	<img src="/assets/ScrollingWithIndicatorBar.gif">
+  <a href="/assets/CategoryScrollingWithIndicatorBar.gif">
+	<img src="/assets/CategoryScrollingWithIndicatorBar.gif">
   </a>
   <figcaption>
-    <a href="/assets/ScrollingWithIndicatorBar.gif" title="카테고리를 스크롤 해도 파란색 IndicatorBar가 따라갑니다 ">
+    <a href="/assets/CategoryScrollingWithIndicatorBar.gif" title="카테고리를 스크롤 해도 파란색 IndicatorBar가 따라갑니다 ">
     </a>
   </figcaption>
 </figure>
 
-### Usage
+# Usage
 1. DownLoad My DemoProject
 
 2. Copy `CustomCategoryTabBar`Folder and Paste this file into your Project
@@ -60,25 +67,25 @@ comments: true
   </a>
 </figure>
 
-### Examples
+# Examples
 
-#### If you need
-* 2 categories and Category Name is `First` and `Second`, Your code is like this
+### If you need
+* **2 categories** and Category Name is `First` and `Second`, Your code is like this
 <figure class = "half">
   <a href="/assets/categoryCodeDemo1.png">
 	<img src="/assets/categoryCodeDemo1.png">
   </a>
   <a href="/assets/CategoryNumIs2.gif">
-	<img src="/assets/CategoryNumIs2.gif">
+	<img src="/assets/CategoryNumIs2.gif" height = 300>
   </a>
 </figure>
 
-* 4 categories and Category Name is `Hi` and `My` and `name` and `is`, Your code is like this
+* **4 categories** and Category Name is `Hi` and `My` and `name` and `is`, Your code is like this
 <figure class = "half">
   <a href="/assets/categoryCodeDemo2.png">
 	<img src="/assets/categoryCodeDemo2.png">
   </a>
   <a href="/assets/CategoryNumIs4.gif">
-	<img src="/assets/CategoryNumIs4.gif">
+	<img src="/assets/CategoryNumIs4.gif" height = 300>
   </a>
 </figure>
