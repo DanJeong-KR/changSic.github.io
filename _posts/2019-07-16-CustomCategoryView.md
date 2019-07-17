@@ -74,7 +74,7 @@ comments: true
 </figure>
 
 * 4 categories and Category Name is `Hi` and `My` and `name` and `is`, Your code is like this
-<figure>
+<figure class = "half">
   <a href="/assets/categoryCodeDemo2.png">
 	<img src="/assets/categoryCodeDemo2.png">
   </a>
