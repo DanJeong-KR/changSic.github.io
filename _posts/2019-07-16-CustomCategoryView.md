@@ -17,34 +17,22 @@ mady by **Sicc**
 * [Blog](https://changsic.github.io/)
 
 # Features
-<figure class="half">
-  <a href="/assets/ViewSwipe.gif">
+<figure class="third">
 	<img src="/assets/ViewSwipe.gif">
-  </a>
 	<img src="/assets/CategoryTap.gif">
-  <a href="/assets/CategoryTap.gif">
-  </a>
-</figure>
-
-<figure>
-  <a href="/assets/CategoryScrollingWithIndicatorBar.gif">
 	<img src="/assets/CategoryScrollingWithIndicatorBar.gif">
-  </a>
-  <figcaption>
-    <a href="/assets/CategoryScrollingWithIndicatorBar.gif" title = "If you scroll the category, IndicatorBar follows the category">
-    If you scroll the category, IndicatorBar follows the category
-    </a>
-  </figcaption>
+	<figcaption>If you scroll the category, IndicatorBar follows the category</figcaption>
 </figure>
 
 
 ### 언어 선택
-[English](https://changsic.github.io/CustomCategoryView/#eng)
-[한국어로 보기](https://changsic.github.io/CustomCategoryView/#kor)
+* [English](https://changsic.github.io/CustomCategoryView/#eng)
 
-<a href = "#eng"> In English </a>
+* [한국어로 보기](https://changsic.github.io/CustomCategoryView/#kor)
 
 ---
+
+<a href="#eng">In English</a>
 
 # Usage
 1. DownLoad My DemoProject
@@ -92,7 +80,7 @@ The image below is a true option, so you can scroll through the categories.
 </figure>
 <figure>
   <a href="/assets/CategoryNumIs2.gif">
-	<img src="/assets/CategoryNumIs2.gif" height = 400>
+	<img src="/assets/CategoryNumIs2.gif" height = "400">
   </a>
 </figure>
 
@@ -110,7 +98,7 @@ The image below is a true option, so you can scroll through the categories.
 
 ---
 
-<a href = "#kor"> 한국어로 보기 </a>
+<a href="#kor">한국어로 보기</a>
 # Usage
 1. DemoProject 를 다운로드 합니다.
 
@@ -170,3 +158,5 @@ The image below is a true option, so you can scroll through the categories.
 	<img src="/assets/CategoryNumIs4.gif" height = 400>
   </a>
 </figure>
+
+---
