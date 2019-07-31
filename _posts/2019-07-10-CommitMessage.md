@@ -97,7 +97,5 @@ See also: #456, #789
 
 <h2 id="8-references" md-pos="2332-2345"><a href="#8-references" name="8-references" class="anchor"><span class="octicon octicon-link"></span></a>References</h2>
 <ul>
-  <li md-pos="2347-2406"><a href="http://sujinlee.me/professional-github/" md-pos="2349-2405">깃허브로 취업하기 포스팅</a></li>
   <li md-pos="2406-2473"><a href="https://udacity.github.io/git-styleguide/" md-pos="2408-2472">유다시티 커밋 메시지 스타일 가이드</a></li>
 </ul>
-</article>
