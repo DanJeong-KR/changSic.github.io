@@ -134,17 +134,17 @@ let vc = DemoViewController(withTitles: ["Hi", "My", "Name", "is"],
 * 2. `CustomCategoryTabBar`Folder 를 복사하고 자신의 프로젝트에 붙여넣기를 합니다!
 <figure>
 <a href="/assets/CategoryTabBarPath1.png">
-<img src="/assets/CategoryTabBarPath1.png" width=600>
+<img src="/assets/CategoryTabBarPath1.png">
 </a>
 </figure>
 <figure>
 <a href="/assets/CategoryTabBarPath2.png">
-<img src="/assets/CategoryTabBarPath2.png" width=600>
+<img src="/assets/CategoryTabBarPath2.png">
 </a>
 </figure>
 <figure>
 <a href="/assets/CustomCategoryTabBarFolder.png">
-<img src="/assets/CustomCategoryTabBarFolder.png" width=600>
+<img src="/assets/CustomCategoryTabBarFolder.png">
 </a>
 </figure>
 
@@ -166,7 +166,8 @@ let vc = DemoViewController(withTitles: ["Hi", "My", "Name", "is"],
 </figure>
 
 * 5. (선택사항) 마지막 인자는 카테고리가 스크롤이 가능한지에 대한 옵션입니다. 아래 사진에서는 true 옵션에 해당하는 것이어서 카테고리가 스크롤 됨을 볼 수 있습니다.
-<img src="/assets/CategoryScrollingWithIndicatorBar.gif" width = 250>
+
+<img src="/assets/CategoryScrollingWithIndicatorBar.gif">
 
 
 
@@ -180,7 +181,7 @@ let vc = DemoViewController(withTitles: ["First", "Second"],
 ~~~
 <figure>
 <a href="/assets/CategoryNumIs2.gif">
-<img src="/assets/CategoryNumIs2.gif" width=250>
+<img src="/assets/CategoryNumIs2.gif">
 </a>
 </figure>
 
@@ -191,7 +192,7 @@ let vc = DemoViewController(withTitles: ["Hi", "My", "Name", "is"],
 ~~~
 <figure>
 <a href="/assets/CategoryNumIs4.gif">
-<img src="/assets/CategoryNumIs4.gif" width=250>
+<img src="/assets/CategoryNumIs4.gif">
 </a>
 </figure>
 
