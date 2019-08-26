@@ -60,17 +60,17 @@ mady by **Sicc**
 * 2. Copy `CustomCategoryTabBar`Folder and Paste this file into your Project
 <figure>
 <a href="/assets/CategoryTabBarPath1.png">
-<img src="/assets/CategoryTabBarPath1.png" width=600>
+<img src="/assets/CategoryTabBarPath1.png">
 </a>
 </figure>
 <figure>
 <a href="/assets/CategoryTabBarPath2.png">
-<img src="/assets/CategoryTabBarPath2.png" width=600>
+<img src="/assets/CategoryTabBarPath2.png">
 </a>
 </figure>
 <figure>
 <a href="/assets/CustomCategoryTabBarFolder.png">
-<img src="/assets/CustomCategoryTabBarFolder.png" width=600>
+<img src="/assets/CustomCategoryTabBarFolder.png">
 </a>
 </figure>
 
@@ -94,7 +94,7 @@ mady by **Sicc**
 
 * 5. (Optional) The last parameter is an option for whether the category can be scrolled.
 The image below is a true option, so you can scroll through the categories.
-<img src="/assets/CategoryScrollingWithIndicatorBar.gif" width = 250>
+<img src="/assets/CategoryScrollingWithIndicatorBar.gif">
 
 
 # <a id="examples">Examples</a>
@@ -109,7 +109,7 @@ let vc = DemoViewController(withTitles: ["First", "Second"],
 
 <figure>
 <a href="/assets/CategoryNumIs2.gif">
-<img src="/assets/CategoryNumIs2.gif" width=250>
+<img src="/assets/CategoryNumIs2.gif">
 </a>
 </figure>
 
@@ -120,7 +120,7 @@ let vc = DemoViewController(withTitles: ["Hi", "My", "Name", "is"],
 ~~~
 <figure>
 <a href="/assets/CategoryNumIs4.gif">
-<img src="/assets/CategoryNumIs4.gif" width=250>
+<img src="/assets/CategoryNumIs4.gif">
 </a>
 </figure>
 
