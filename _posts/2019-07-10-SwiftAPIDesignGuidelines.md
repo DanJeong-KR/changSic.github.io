@@ -14,7 +14,7 @@ comments: true
 
 #### 축약하지 말고 길더라도 명확하도록 쓰자
 
-###함수 주석규칙
+### 함수 주석규칙
 
 - 하는일 - 될 수 있으면 function의 기능을 한 줄로 요약
 
@@ -22,7 +22,7 @@ comments: true
 
 - 리턴의 의미 -
 
-### #pragma mark 주석
+### #pragma mark 주석 적극 사용
 * `// MARK: - ` : 설명
 * `// FIXME: - ` : 고쳐야 할 것
 * `// TODO: - ` : 해야할 것
