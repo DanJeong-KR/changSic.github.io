@@ -8,15 +8,16 @@ tag:
 - DesignPattern
 comments: true
 ---
+* What are Design Patterns?
+  * [A real-world example](#ex)
+  * [Example explanation](#ex_detail)
+  * [Types of design patterns](#type)
+  * [Criticisms of design patterns](#criticisms)
+  * [Benefits of design patterns](#benefits)
+  * [Key Points](#key)
+* How to Read a Class Diagram.
 
 이 글은 raywenderlich에서 발행한 Design Patterns By Tutorials 의 Chapter 1. What are Design Patterns? 을 번역한 것으로 출처를 밝힙니다!
-
-* [A real-world example](#ex)
-* [Example explanation](#ex_detail)
-* [Types of design patterns](#type)
-* [Criticisms of design patterns](#criticisms)
-* [Benefits of design patterns](#benefits)
-* [Key Points](#key)
 
 ## <a id="ex">A real-world example</a>
 The introduction told you that design patterns are reusable, template solutions to common development problems.
