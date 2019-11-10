@@ -109,12 +109,59 @@ We’ve chosen to label MVVM and MVC as structural design patterns because they 
 They are also very commonly used in iOS projects, and we wanted to ensure we covered them.
 그것드릉ㄴ 또한 매우 일반적으로 iOS 프로젝트에 사용되고 우리는 그것들을 다룰 수 있도록 하길 바랬습니다.
 If someone says these are actually architectural patterns, we don’t necessarily disagree, as they can also be used that way.
-누군가가 이것들이 실제로는 아키텍처 패턴이라고 한다면 그것들이 또한 그 방식으로 사용될 수 있기 때문에 우리는 꼭 disagree 하진 않을 것입니다. 
+누군가가 이것들이 실제로는 아키텍처 패턴이라고 한다면 그것들이 또한 그 방식으로 사용될 수 있기 때문에 우리는 꼭 disagree 하진 않을 것입니다.
 
+### Criticisms of design patterns
+As indicated earlier, “there are no silver bullets in software development,” and design patterns are no exception to this.
+앞서 표현한 것과 같이 소프트웨어 개발에서 은화살은 없고 디자인 패턴도 예외는 아니다.
+This means that simply knowing and employing design patterns will not guarantee you will create a well-architected piece of software.
+이것은  간단하게 디자인 패턴을 아는 것과 그것을 채택하는 것이 잘 짜여진 소프트웨어의 조각을 만들 것이라는 것을 보증하지 않는다는 의미이다.
+There are dozens of design patterns, so knowing when and how to employ each one is important.
+많은 디자인 패턴들이 있고 각각을 언제 그리고 어떻게 채택할 것인지가 중요하다.
+Here are some common criticisms of design patterns:
+여기 일반적인 디자인 패턴의 비판이 있다.
+* If you overuse design patterns, your project can become overly complex.
+* 만약 당신이 디자인 패턴을 과하게 사용한다면, 프로젝트는 매우 복잡해질 수  있다.
+You need to be careful about overusing any tool, including design patterns.
+당신은 디자인 패턴을 포함한 어떤 툴이든 과하게 사용하는 것에 대해 조심할 필요성이 있다.
+You can minimize this issue by clearly and correctly defining the problem to be solved before adding a design pattern to your project.
+당신은 이 문제를 디자인 패턴이 당신의 프로젝트에 추가되기 전에 해결될 수 있다는 것을 명확하고 정확하게 정의함으로써 최소화할 수 있다.
 
+* Many design patterns are made redundant by modern programming languages.
+* 많은 디자인 패턴들은 현대 프로그래밍 언어에 의해 불필요해지게 되었다.
+It’s true that modern programming languages like Swift make some design patterns irrelevant or trivial to implement.
+스위프트 같은 현대 프로그래밍 언어가 몇몇 디자인 패턴들 상관없게 혹은 사소하게 만든 것은 사실이다.
+However, just because some patterns are provided via a programming language doesn’t mean all patterns will be.
+하지만 단지 몇몇 패턴이 프로그래밍 언어로 제공된다는 것이 모든 패턴이 그렇다는 것을 의미하는 것은 아니다.
 
+* Design patterns are a lazy substitute for learning object-oriented
+principles.
+* 디자인 패턴은 객체 지향적인 원칙들을 배우는 것에 대한 게으른 대체제이다.
+Why not learn both? A strong understanding of object-oriented principles will certainly help you in your development.
+왜 둘 다 배우지 않아? 객체 지향의 원칙들의 높은 이해는 당신의 개발에서 확실히 도움이 될 거야.
+However, if you already know a design pattern works well for a particular problem, why should you reinvent the solution from scratch?
+하지만, 만약 당신이 이미 특정 문제에 대해 디자인 패턴이 잘 작동한다는 것을 알고 있다면 왜 해결책을 처음부터 다시 개발해야 하지?
 
+* But, but...check out this thread on Twitter, which definitely shows that design patterns are worthless!
+근데 트위터에서 이 쓰레드를 확인해봐, 그게 디자인 패턴의 무가치함을 확실하게 보여줄거야.
+Regardless of the particular criticism, design patterns have been around for a long time, and they’ve been used in many apps.
+어떤 비난에도 불구하고 디자인 패턴은 오랜시간 있어왔고 많은 어플에서 사용되고 있어.
+So at some point, you’re going to encounter them.
+그래서 몇몇 관점에서는 당신은 그것들을 마주하게 될거야.
+We think it’s best to have an understanding of what they are before you run into them, instead of trying to wing it on the fly, which in our experience is usually late on a Sunday night, the day before the release deadline, right after discovering a critical bug.
+우리는 그것을 하늘에서 날개를 피려고 노력하는 것 대신에 run into 하기 전에 그게 무엇인지 이해하는 것이 좋다고 생각해. 그것은 내 경험에서는는 보통 데드라인 하루 전 늦을 일요일 밤 치명적인 버그를 발견한 바로 직후야.
 
+### Benefits of design patterns
+
+We’ve mentioned many benefits of design patterns already, but we wanted to point out a few more:
+Design patterns create a common language.
+Instead of describing a particular solution in detail, you can simply state which design pattern you think would work best. This streamlines communication between developers.
+Design patterns fast-track developer onboarding.
+It’s much easier to onboard a new developer on a project that uses design patterns, than on a project with completely custom logic.
+Design patterns make you a better person.
+Well, this one may still be up for debate. But some degree of self-improvement is never wasted! However, there is a grain of truth to this, as the next developer to maintain your project will certainly think you’re a better person for having left them a nice, design- pattern-filled project instead of a spaghetti-coded mess!
+Knowing design patterns allow you to spot similarities between code.
+Once you know and understand different design patterns, you begin to notice their use in code. This gives you a leg up as you are at least a little familiar with how to use that code. For example, iOS and Mac programming makes heavy use of the Delegation pattern. You would spot this pattern easily if you ever moved to another platform that also uses Delegation and instantly be familiar with how the code is organized.
 
 
 
