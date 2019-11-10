@@ -9,8 +9,10 @@ tag:
 comments: true
 ---
 
-### A real-world example
+이 글은 raywenderlich에서 발행한 Design Patterns By Tutorials 의 Chapter 1. What are Design Patterns? 을 번역한 것으로 출처를 밝힙니다.
 
+
+### A real-world example
 The introduction told you that design patterns are reusable, template solutions to common development problems.
 디자인 패턴은 개발에서 발생하는 일반적인 문제에 대한 재사용 가능하고 템플릿한 해결책 입니다.
 Design patterns aren’t concrete implementations, but rather, serve as starting points for writing code.
@@ -46,7 +48,6 @@ So now you know all about design patterns! Wait, you need more details? Okay, le
 당신은 디자인 패턴에 대해 다 배운 거에요. 자세히 알고 싶나요? 하나씩 봅시다.
 
 ### Example explanation
-
 The “design pattern” here is the use of wheelbarrows and carts.
 여기에서 '디자인 패턴'은 손수레와 카트를 사용하는 것입니다.
 These are common, best practice tools in gardening.
@@ -143,40 +144,55 @@ However, if you already know a design pattern works well for a particular proble
 하지만, 만약 당신이 이미 특정 문제에 대해 디자인 패턴이 잘 작동한다는 것을 알고 있다면 왜 해결책을 처음부터 다시 개발해야 하지?
 
 * But, but...check out this thread on Twitter, which definitely shows that design patterns are worthless!
-근데 트위터에서 이 쓰레드를 확인해봐, 그게 디자인 패턴의 무가치함을 확실하게 보여줄거야.
+* 근데 트위터에서 이 쓰레드를 확인해봐, 그게 디자인 패턴의 무가치함을 확실하게 보여줄거야.
 Regardless of the particular criticism, design patterns have been around for a long time, and they’ve been used in many apps.
 어떤 비난에도 불구하고 디자인 패턴은 오랜시간 있어왔고 많은 어플에서 사용되고 있어.
 So at some point, you’re going to encounter them.
 그래서 몇몇 관점에서는 당신은 그것들을 마주하게 될거야.
 We think it’s best to have an understanding of what they are before you run into them, instead of trying to wing it on the fly, which in our experience is usually late on a Sunday night, the day before the release deadline, right after discovering a critical bug.
 우리는 그것을 하늘에서 날개를 피려고 노력하는 것 대신에 run into 하기 전에 그게 무엇인지 이해하는 것이 좋다고 생각해. 그것은 내 경험에서는는 보통 데드라인 하루 전 늦을 일요일 밤 치명적인 버그를 발견한 바로 직후야.
+(모르고 가서 개 고생하기 전에 미리 아는것이 좋다고 표현한 듯.)
 
 ### Benefits of design patterns
-
 We’ve mentioned many benefits of design patterns already, but we wanted to point out a few more:
-Design patterns create a common language.
-Instead of describing a particular solution in detail, you can simply state which design pattern you think would work best. This streamlines communication between developers.
-Design patterns fast-track developer onboarding.
+우리는 이미 디자인 패턴의 많은 장점들을 언급했지만 조금 더 집고 넘어갈게
+* Design patterns create a common language.
+* 디자인 패턴은 보통의 언어를 만든다.
+Instead of describing a particular solution in detail, you can simply state which design pattern you think would work best.
+특정 솔루션을 자세하게 설명하는 대신에, 넌 간단하게 너가 생각한 디자인 패턴이 잘 작동할 것이라고 명시할 수 있어.
+This streamlines communication between developers.
+이것은 개발자들 사이의 의사소통을 간소화합니다.
+* Design patterns fast-track developer onboarding.
+* 디자인 패턴은 빠른 개발자 온보딩이다. (온보딩 : 새로 합류한 사람이 빠르게 조직의 문화를 익히고 적응하도록 돕는 과정 같은거.)
 It’s much easier to onboard a new developer on a project that uses design patterns, than on a project with completely custom logic.
-Design patterns make you a better person.
-Well, this one may still be up for debate. But some degree of self-improvement is never wasted! However, there is a grain of truth to this, as the next developer to maintain your project will certainly think you’re a better person for having left them a nice, design- pattern-filled project instead of a spaghetti-coded mess!
-Knowing design patterns allow you to spot similarities between code.
-Once you know and understand different design patterns, you begin to notice their use in code. This gives you a leg up as you are at least a little familiar with how to use that code. For example, iOS and Mac programming makes heavy use of the Delegation pattern. You would spot this pattern easily if you ever moved to another platform that also uses Delegation and instantly be familiar with how the code is organized.
+완전하게 커스텀 로직으로 구성된 프로젝트 보다 디자인 패턴을 사용하는 프로젝트에서 새로운 개발자가 더 적응하기 쉽다.
+* Design patterns make you a better person.
+* 디자인 패턴은 당신을 더 나은 사람으로 만듭니다.
+Well, this one may still be up for debate. But some degree of self-improvement is never wasted!
+음, 이건 아마 여전이 논쟁의 여지가 있지만 어느 정도의 자기개발은 결코 낭비가 아니에요!
+However, there is a grain of truth to this, as the next developer to maintain your project will certainly think you’re a better person for having left them a nice, design- pattern-filled project instead of a spaghetti-coded mess!
+하지만, 이 진실의 일면에는 당신의 프로젝트를 유지보수하는 다음 개발자가 확실히 당신을 좋은 사람으로 생각할 것이기 때문에 spaghetti-coded mess 대신에 디자인 패턴이 채워진 프로젝트가 좋다.
+* Knowing design patterns allow you to spot similarities between code.
+* 디자인 패턴을 아는 것은 너가 코드 사이의 유사점을 찾게 해준다.
+Once you know and understand different design patterns, you begin to notice their use in code.
+한번 당신이 다른 디자인 패턴들을 알고 이해한다면, 넌 코드에서 그것들의 사용을 알아차리기 시작할 것이다.
+This gives you a leg up as you are at least a little familiar with how to use that code.
+이는 적어도 너가 그 코드를 사용하는 방법에 대해 약간 익숙하기 떄문에 널 도와준다.
+For example, iOS and Mac programming makes heavy use of the Delegation pattern.
+예를 들어, iOS 와 Mac 프로그래밍은 Delegation Pattern 을 매우 많이 사용한다.
+You would spot this pattern easily if you ever moved to another platform that also uses Delegation and instantly be familiar with how the code is organized.
+넌 만약 너가 Delegation 을 많이 사용하는 다른 플랫폼으로 옮겨가더라도 이 패턴을 쉽게 발견할 거고 바로 어떻게 코드가 구성되 있는지 익숙하게 될 것이다.
 
 
-
-
-
-• What is it?
-This section gives a class diagram and explains the design pattern.
-• When should you use it?
-This section describes the design pattern’s strengths and provides examples where the design pattern works well.
-• Playground example
-This section shows you how to use the design pattern within a playground example. This isn’t meant to be a complete project, but rather, it’s a standalone example to teach you the basics of the design pattern.
-• What should you be careful about?
-This section describes the shortcomings, weaknesses and caveats of a particular pattern. Every pattern can be misused, so it’s best to know upfront when not to use a pattern.
-• Tutorial project
-This section guides you through using the design pattern in a tutorial app.
-• Key points
-This section provides a summary of what you learned and key points to remember for
-the chapter. provides a summary of what you lea
+### Key points
+In this chapter, you learned what design patterns are and why you should care about them. Here are the key points to remember:
+* Design patterns aren't concrete implementations, but rather, they are a starting point for writing code.
+디자인 패턴은 구체적으로 실행하는 것이 아니라 오히려 코드를 작성하는 시작점에 가깝다.
+* Design patterns collectively form a set of best practices to help you write more understandable and easier-to-maintain code.
+디자인 패턴은 집합적으로는 너가 더 이해학 쉽고 유지보수하기 쉬운 코드를 작성하는데 도움이 되는 좋은 방식들의 집합을 형성하게 한다.
+* There are three main types of design patterns: structural, behavioral and creational.
+디지인 패턴에는 3개의 타입이 존재한다. structural, behavioral, creational
+* There are both criticisms and benefits of design patterns.
+디자인 패턴에는 비판적인 부분과 긍정적인 부분 모두 존재한다.
+Ultimately, they are commonplace in software development, and you're likely to encounter them. Therefore, having a good grasp of them is important.
+궁극적으로 디자인 패턴은 소프트웨어 개발에서 매우 흔하고 넌 그것들을 계속 마주하게 될 거야. 그러므로 디자인 패턴을 잘 이해하는 것이 중요하지.
