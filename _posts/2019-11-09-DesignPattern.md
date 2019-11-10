@@ -134,7 +134,7 @@ Make sense? Great! It's now time to leave the garden behind and head back to the
 ## <a id="type">Types of design patterns</a>
 
 There are three main types of design patterns:
-1. Structural design pattern: Describes how objects are composed and combined to form larger structures.
+* Structural design pattern: Describes how objects are composed and combined to form larger structures.
 
 구조적 디자인 패턴 : 객체들이 어떻게 큰 구조를 이루기 위해 구성되고 결합되는지를 설명한다.
 
@@ -142,7 +142,7 @@ Examples of structural design patterns include Model-View- Controller (MVC), Mod
 
 구조적 디자인 패턴의 예로 MVC, MVVM, Facade 가 있다.
 
-2. Behavioral design pattern: Describes how objects communicate with each other.
+* Behavioral design pattern: Describes how objects communicate with each other.
 
 행위적 디자인 패턴 : 객체들이 어떻게 서로 소통하는지를 설명한다.
 
@@ -150,7 +150,7 @@ Examples of behavioral design patterns are Delegation, Strategy and Observer.
 
 행위적 디자인 패턴의 예로는 Delegation, Strategy, Observer 가 있다.
 
-3. Creational design pattern: Describes how to create or instantiate objects.
+* Creational design pattern: Describes how to create or instantiate objects.
 
 창조적 디자인 패턴 : 객체를 인스턴스화 하거나 창조하는 방법을 설명한다.
 
