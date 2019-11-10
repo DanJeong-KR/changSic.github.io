@@ -11,8 +11,14 @@ comments: true
 
 이 글은 raywenderlich에서 발행한 Design Patterns By Tutorials 의 Chapter 1. What are Design Patterns? 을 번역한 것으로 출처를 밝힙니다!
 
+* [A real-world example](#ex)
+* [Example explanation](#ex_detail)
+* [Types of design patterns](#type)
+* [Criticisms of design patterns](#criticisms)
+* [Benefits of design patterns](#benefits)
+* [Key Points](#key)
 
-### A real-world example
+## <a id="ex">A real-world example</a>
 The introduction told you that design patterns are reusable, template solutions to common development problems.
 
 디자인 패턴은 개발에서 발생하는 일반적인 문제에 대한 재사용 가능하고 템플릿한 해결책 입니다.
@@ -77,7 +83,7 @@ So now you know all about design patterns! Wait, you need more details? Okay, le
 
 당신은 디자인 패턴에 대해 다 배운 거에요. 자세히 알고 싶나요? 하나씩 봅시다.
 
-### Example explanation
+## <a id="ex_detail">Example explanation</a>
 The “design pattern” here is the use of wheelbarrows and carts.
 
 여기에서 '디자인 패턴'은 손수레와 카트를 사용하는 것입니다.
@@ -124,7 +130,7 @@ They are starting points for concrete implementations, like using carts for flow
 
 Make sense? Great! It's now time to leave the garden behind and head back to the world of software design patterns.
 
-### Types of design patterns
+## <a id="type">Types of design patterns</a>
 
 There are three main types of design patterns:
 1. Structural design pattern: Describes how objects are composed and combined to form larger structures.
@@ -195,7 +201,7 @@ If someone says these are actually architectural patterns, we don’t necessaril
 
 누군가가 이것들이 실제로는 아키텍처 패턴이라고 한다면 그것들이 또한 그 방식으로 사용될 수 있기 때문에 우리는 꼭 disagree 하진 않을 것입니다.
 
-### Criticisms of design patterns
+## <a id="criticisms">Criticisms of design patterns</a>
 
 As indicated earlier, “there are no silver bullets in software development,” and design patterns are no exception to this.
 
@@ -261,7 +267,7 @@ We think it’s best to have an understanding of what they are before you run in
 우리는 그것을 하늘에서 날개를 피려고 노력하는 것 대신에 run into 하기 전에 그게 무엇인지 이해하는 것이 좋다고 생각해. 그것은 내 경험에서는는 보통 데드라인 하루 전 늦을 일요일 밤 치명적인 버그를 발견한 바로 직후야.
 (모르고 가서 개 고생하기 전에 미리 아는것이 좋다고 표현한 듯.)
 
-### Benefits of design patterns
+## <a id="benefits">Benefits of design patterns</a>
 
 We’ve mentioned many benefits of design patterns already, but we wanted to point out a few more:
 
@@ -315,7 +321,7 @@ You would spot this pattern easily if you ever moved to another platform that al
 넌 만약 너가 Delegation 을 많이 사용하는 다른 플랫폼으로 옮겨가더라도 이 패턴을 쉽게 발견할 거고 바로 어떻게 코드가 구성되 있는지 익숙하게 될 것이다.
 
 
-### Key points
+## <a id="key">Key Points</a>
 
 In this chapter, you learned what design patterns are and why you should care about them. Here are the key points to remember:
 
