@@ -17,7 +17,7 @@ comments: true
   * [Criticisms of design patterns](#criticisms)
   * [Benefits of design patterns](#benefits)
   * [Key Points](#key)
-* How to Read a Class Diagram.
+* [How to Read a Class Diagram.](https://changsic.github.io/ClassDiagram/)
 
 이 글은 raywenderlich에서 발행한 Design Patterns By Tutorials 의 Chapter 1. What are Design Patterns? 을 번역한 것으로 출처를 밝힙니다!
 

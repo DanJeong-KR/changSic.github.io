@@ -9,6 +9,16 @@ tag:
 comments: true
 ---
 
+# Design Pattern OverView
+* [What are Design Patterns?](https://changsic.github.io/DesignPattern/)
+  * [A real-world example](#ex)
+  * [Example explanation](#ex_detail)
+  * [Types of design patterns](#type)
+  * [Criticisms of design patterns](#criticisms)
+  * [Benefits of design patterns](#benefits)
+  * [Key Points](#key)
+* How to Read a Class Diagram.
+
 Class diagrams are like engineering blueprints; they provide information about a system through the medium of pictures, symbols and annotations.
 
 Class diagrams은 공학의 청사진과 같은 것. 시스템 정보를 사진, 기호, 주석같은 도구를 통해 제공한다.
@@ -47,3 +57,12 @@ Class diagrams은 공학의 청사진과 같은 것. 시스템 정보를 사진,
 
 * You can also denote properties and methods in a class diagram
 ![](/assets/protocol_ex2.png)
+
+
+## Key points
+Here are the key points you learned:
+* Class diagrams give a visual representation of class and protocol types, showing their properties and methods.
+* Class diagrams also show the relationship between the object types.
+* Class diagrams can be drawn in any other orientation; the direction of the arrows define the meaning.
+* Boxes denote classes, and lines denote relationships: “implements,” “has a,” “uses“ and “conforms to” are the most common relations.
+* Boxes can also denote protocols, which is indicated by <<protocol>> before the name.
